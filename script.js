@@ -1,6 +1,6 @@
 const panels = [
     {
-        title: "The Foundations (Mid-1960s)",
+        title: "The Foundations, Mid-1960s",
         time: "1966",
         description: "A busy construction site in the scenic Carmel Valley landscape. Workers in hard hats erect wooden frames for a modern shopping complex amid rolling hills and oak trees. Architect Olof Dahlstrand stands foreground with blueprints, overseeing the build. The emerging structure features clean lines, flat roofs, and natural wood exteriors blending with the rural environment.",
         keyEvents: "Construction begins on the original one- and two-story center, designed by Olof Dahlstrand as a neighborhood hub for the growing community.",

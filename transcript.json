@@ -1,0 +1,72 @@
+[
+  {
+    "start": "0:00",
+    "text": "❝A day ago I got an email from Academia.edu telling me a decade-old paper of mine had become an AI-narrated podcast.❞",
+    "img": "images/email_inbox.jpg"
+  },
+  {
+    "start": "0:20",
+    "text": "The kicker? It used a cloned voice of Richard Price, Academia’s founder, to read my work.",
+    "img": "images/richard_price_voice_clone.png"
+  },
+  {
+    "start": "0:45",
+    "text": "Why I hit record: let’s walk through the paper together and see what this means for today’s world of research sharing.",
+    "img": "images/record_button.gif"
+  },
+  {
+    "start": "1:06",
+    "text": "Paper overview – <strong>“Project-Based Learning Kickstart Tips”</strong> and what hackathons can teach us about ed-tech.",
+    "img": "images/paper_cover_mockup.jpg"
+  },
+  {
+    "start": "1:38",
+    "text": "Why hackathons matter: face-to-face intensity can complement – not replace – classic classroom teaching.",
+    "img": "images/hackathon_team.jpg"
+  },
+  {
+    "start": "1:59",
+    "text": "Engagement gains & learning outcomes: dynamic, tech-driven settings spark deeper participation.",
+    "img": "images/student_engagement_chart.png"
+  },
+  {
+    "start": "2:26",
+    "text": "Hackathons aren’t one-size-fits-all; they’re catalysts that let students shine on real projects.",
+    "img": "images/catalyst_icon.svg"
+  },
+  {
+    "start": "2:39",
+    "text": "Teacher 2.0: shifting from lecturer to facilitator, observer, co-learner.",
+    "img": "images/teacher_facilitator.png"
+  },
+  {
+    "start": "3:23",
+    "text": "Reality check: planning matters – chaos vs. structured creativity (maybe a bit of both!).",
+    "img": "images/chaos_vs_structure.jpg"
+  },
+  {
+    "start": "3:48",
+    "text": "The magic of self-organisation under pressure draws in even the quiet voices.",
+    "img": "images/self_organising_magic.png"
+  },
+  {
+    "start": "4:00",
+    "text": "Can hackathon energy fuel semester-long projects? Food for thought.",
+    "img": "images/energy_battery.gif"
+  },
+  {
+    "start": "4:24",
+    "text": "Innovation ✕ Tradition: the ongoing academic waltz – papers plant seeds, not final truths.",
+    "img": "images/innovation_tradition_waltz.jpg"
+  },
+  {
+    "start": "4:52",
+    "text": "Let’s keep the discourse lively – join the conversation!",
+    "img": "images/discussion_forum.png"
+  },
+  {
+    "start": "4:56",
+    "text": "Outro: stay curious, keep exploring, and thanks for tuning in to <em>In-Depth with Academia</em>.",
+    "img": "images/outro_banner.jpg"
+  }
+]
